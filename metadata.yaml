@@ -1,10 +1,16 @@
 _repo: The-Machine-That-Floats_49693
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49693-h/images/cover.jpg
 creator:
   author:
     agent_name: Gibson, Joe
     gutenberg_agent_id: '45494'
     url: http://www.gutenberg.org/2009/agents/45494
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49693#The-Machine-That-Floats
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2015-08-13'
 gutenberg_type: Text
